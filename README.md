@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Building+Scalable+Web+Apps;Automation+%26+Data+Tooling+Enthusiast;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alikhan67595&label=Profile+Views&color=3fb950&style=flat-square" alt="Profile views" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
