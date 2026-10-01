@@ -5,30 +5,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Building+Scalable+Web+Apps;Automation+%26+Data+Tooling+Enthusiast;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alikhan67595&label=Profile+Views&color=3fb950&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/Alikhan67595?tab=followers">
-    <img src="https://img.shields.io/github/followers/Alikhan67595?label=Followers&style=flat-square&logo=github" alt="Followers" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="60%">
+<td  width="50%">
 
 - 🛠️ **Stack:** MongoDB • Express • React • Node.js
 - ⚡ **Mindset:** Build clean, ship fast
 - 🎯 **Philosophy:** Write code that solves real problems
 - 🌱 **Learning:** Next.js & System Design
-- 📫 **Reach me at** [YOUR-EMAIL@gmail.com](mailto:YOUR-EMAIL@gmail.com)
+- 📫 **Reach me at** [alikhan67595@gmail.com](mailto:alikhan67595@gmail.com)
 
 </td>
-<td align="center" width="40%">
-  <img src="https://raw.githubusercontent.com/Alikhan67595/Alikhan67595/main/assets/coding.svg" width="260" alt="Coding illustration" />
+<td align="center" valign="middle" width="50%">
+  <img src="https://raw.githubusercontent.com/Alikhan67595/Alikhan67595/main/assets/coding.svg" width="300" alt="Coding illustration" />
 </td>
 </tr>
 </table>
@@ -82,17 +75,11 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/ali-khan-dev6696/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:alikhan67595@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/92XXXXXXXXXX">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://YOUR-PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
