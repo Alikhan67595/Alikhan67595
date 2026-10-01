@@ -1,16 +1,101 @@
-## Hi there 👋
+<!-- ======================= HEADER ======================= -->
+<h1 align="center">Hi there, I'm Muhammad Ali Khan 👋</h1>
 
-<!--
-**Alikhan67595/Alikhan67595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Building+Scalable+Web+Apps;Automation+%26+Data+Tooling+Enthusiast;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alikhan67595&label=Profile+Views&color=3fb950&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/Alikhan67595?tab=followers">
+    <img src="https://img.shields.io/github/followers/Alikhan67595?label=Followers&style=flat-square&logo=github" alt="Followers" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+- 🛠️ **Stack:** MongoDB • Express • React • Node.js
+- ⚡ **Mindset:** Build clean, ship fast
+- 🎯 **Philosophy:** Write code that solves real problems
+- 🌱 **Learning:** Next.js & System Design
+- 📫 **Reach me at** [YOUR-EMAIL@gmail.com](mailto:YOUR-EMAIL@gmail.com)
+
+</td>
+<td align="center" width="40%">
+  <img src="https://raw.githubusercontent.com/Alikhan67595/Alikhan67595/main/assets/coding.svg" width="260" alt="Coding illustration" />
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite&theme=dark" alt="Frontend skills" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python&theme=dark" alt="Backend skills" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alikhan67595&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alikhan67595&layout=compact&theme=github_dark&hide_border=true&hide=typescript,plpgsql" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alikhan67595&theme=github-dark&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🔍 **COC Lead Scraper** | Chrome extension that scrapes business leads to CSV with start/stop control | `JavaScript` `Chrome MV3` |
+| 🧾 **Trademark Data Tools** | Automation and backend system for managing USPTO trademark data | `Node.js` `Express` |
+| ✈️ **Travel Agency App** | Full-stack travel Agency Web app with PWA support | `Next.js` `MongoDB` `Mongoose` |
+
+> 📌 Pin your best repos on your profile and replace/add links to each project above.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/92XXXXXXXXXX">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://YOUR-PORTFOLIO.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>⭐ If you like my work, drop a star on my repos — it motivates me to build more!</i>
+</p>
