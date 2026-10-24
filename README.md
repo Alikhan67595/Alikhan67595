@@ -72,8 +72,6 @@
 | 🧾 **Trademark Data Tools** | Automation and backend system for managing USPTO trademark data | `Node.js` `Express` |
 | ✈️ **Travel Agency App** | Full-stack travel Agency Web app with PWA support | `Next.js` `MongoDB` `Mongoose` |
 
-> 📌 Pin your best repos on your profile and replace/add links to each project above.
-
 ---
 
 ## 🤝 Let's Connect
